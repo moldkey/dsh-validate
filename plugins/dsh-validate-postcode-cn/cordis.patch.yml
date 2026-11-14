@@ -1,0 +1,4 @@
+# 校验：postcode cn
+- insert:
+    - id: dsh-validate-postcode-cn
+      name: "dsh-validate-postcode-cn"

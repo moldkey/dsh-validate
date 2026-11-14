@@ -1,0 +1,4 @@
+# 校验：ean13 validate
+- insert:
+    - id: dsh-validate-ean13-validate
+      name: "dsh-validate-ean13-validate"

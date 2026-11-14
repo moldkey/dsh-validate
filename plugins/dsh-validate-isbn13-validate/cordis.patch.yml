@@ -1,0 +1,4 @@
+# 校验：isbn13 validate
+- insert:
+    - id: dsh-validate-isbn13-validate
+      name: "dsh-validate-isbn13-validate"

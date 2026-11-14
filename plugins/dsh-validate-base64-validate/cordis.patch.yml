@@ -1,0 +1,4 @@
+# 校验：base64 validate
+- insert:
+    - id: dsh-validate-base64-validate
+      name: "dsh-validate-base64-validate"

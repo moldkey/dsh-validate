@@ -1,0 +1,4 @@
+# 校验：url validate
+- insert:
+    - id: dsh-validate-url-validate
+      name: "dsh-validate-url-validate"

@@ -1,0 +1,4 @@
+# 校验：vat cn validate
+- insert:
+    - id: dsh-validate-vat-cn-validate
+      name: "dsh-validate-vat-cn-validate"

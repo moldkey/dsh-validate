@@ -1,0 +1,4 @@
+# 校验：jwt format
+- insert:
+    - id: dsh-validate-jwt-format
+      name: "dsh-validate-jwt-format"

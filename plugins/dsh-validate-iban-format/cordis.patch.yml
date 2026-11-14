@@ -1,0 +1,4 @@
+# 校验：iban format
+- insert:
+    - id: dsh-validate-iban-format
+      name: "dsh-validate-iban-format"

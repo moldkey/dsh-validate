@@ -1,0 +1,4 @@
+# 校验：hostname validate
+- insert:
+    - id: dsh-validate-hostname-validate
+      name: "dsh-validate-hostname-validate"

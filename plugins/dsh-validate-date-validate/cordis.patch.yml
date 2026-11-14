@@ -1,0 +1,4 @@
+# 校验：date validate
+- insert:
+    - id: dsh-validate-date-validate
+      name: "dsh-validate-date-validate"

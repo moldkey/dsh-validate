@@ -1,0 +1,4 @@
+# 校验：hex color validate
+- insert:
+    - id: dsh-validate-hex-color-validate
+      name: "dsh-validate-hex-color-validate"

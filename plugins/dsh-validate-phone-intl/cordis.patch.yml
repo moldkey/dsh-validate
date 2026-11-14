@@ -1,0 +1,4 @@
+# 校验：phone intl
+- insert:
+    - id: dsh-validate-phone-intl
+      name: "dsh-validate-phone-intl"
